@@ -61,7 +61,7 @@ body {
 .color5{
   background-image: url("./image/5.jpg");
   background-repeat : no-repeat;
-  background-size : contain;
+  background-size : cover;
 }
 .color6{
   background-image: url("./image/6.jpg");
